@@ -1,0 +1,4160 @@
+/*///////////////////////////////////////////////////////////////////////////
+
+Hide Page Titles
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.page-node-1 #pagetitle,
+.page-node-5 #pagetitle,
+.page-node-7 #pagetitle,
+.page-node-9 #pagetitle,
+.page-node-11 #pagetitle,
+.page-node-13 #pagetitle,
+.page-node-15 #pagetitle,
+.page-node-17 #pagetitle,
+.page-node-18 #pagetitle,
+.page-node-19 #pagetitle,
+.page-node-21 #pagetitle,
+.page-node-22 #pagetitle,
+.page-node-24 #pagetitle,
+.page-node-26 #pagetitle,
+.page-node-28 #pagetitle,
+.page-node-30 #pagetitle,
+.page-node-32 #pagetitle,
+.page-node-34 #pagetitle,
+.page-node-36 #pagetitle,
+.page-node-38 #pagetitle,
+.page-node-40 #pagetitle,
+.page-node-42 #pagetitle,
+.page-node-43 #pagetitle,
+.page-node-44 #pagetitle,
+.page-node-74 #pagetitle,
+.page-node-78 #pagetitle,
+.page-node-79 #pagetitle,
+.page-node-99 #pagetitle,
+.page-node-131 #pagetitle,
+.page-node-132 #pagetitle,
+.page-node-136 #pagetitle,
+.page-node-137 #pagetitle,
+.page-node-140 #pagetitle,
+.page-node-188 #pagetitle,
+.page-node-189 #pagetitle,
+.page-node-190 #pagetitle,
+.page-node-191 #pagetitle,
+.page-node-192 #pagetitle,
+.page-node-254 #pagetitle,
+.page-node-255 #pagetitle,
+.page-node-256 #pagetitle,
+.page-node-600 #pagetitle,
+.page-node-609 #pagetitle,
+.page-node-611 #pagetitle,
+.page-node-617 #pagetitle,
+.page-node-622 #pagetitle,
+.page-node-638 #pagetitle,
+.page-node-630 #pagetitle,
+.page-node-631 #pagetitle,
+.page-node-645 #pagetitle,
+.page-node-646 #pagetitle,
+.page-node-647 #pagetitle,
+.page-node-649 #pagetitle,
+.page-node-653 #pagetitle,
+.page-node-703 #pagetitle,
+.page-node-704 #pagetitle,
+.page-node-709 #pagetitle,
+.page-node-710 #pagetitle,
+.page-node-712 #pagetitle,
+.page-node-713 #pagetitle,
+.page-node-718 #pagetitle,
+.page-node-719 #pagetitle,
+.page-node-720 #pagetitle,
+.page-node-737 #pagetitle,
+.page-node-738 #pagetitle,
+.page-node-823 #pagetitle,
+.page-node-824 #pagetitle,
+.page-node-866 #pagetitle,
+.page-node-1008 #pagetitle,
+.page-node-1010 #pagetitle,
+.page-node-1018 #pagetitle,
+.page-node-1094 #pagetitle,
+.page-node-1096 #pagetitle,
+.page-node-1097 #pagetitle,
+.page-node-1102 #pagetitle,
+.page-node-1103 #pagetitle,
+.page-node-1104 #pagetitle,
+.page-node-1105 #pagetitle,
+.page-node-1106 #pagetitle,
+.page-node-1107 #pagetitle,
+.page-node-1108 #pagetitle,
+.page-node-1149 #pagetitle,
+.page-node-1150 #pagetitle,
+.page-node-1151 #pagetitle,
+.page-node-1166 #pagetitle,
+.page-node-1316 #pagetitle,
+.page-node-1323 #pagetitle,
+.page-node-1333 #pagetitle,
+.page-node-1664 #pagetitle,
+.page-node-1666 #pagetitle,
+.page-node-2324 #pagetitle,
+.page-node-2325 #pagetitle,
+.page-node-2369 #pagetitle,
+.page-node-2370 #pagetitle,
+.page-node-2371 #pagetitle,
+.page-node-2372 #pagetitle,
+.page-node-2373 #pagetitle,
+.page-node-2738 #pagetitle,
+.page-node-2754 #pagetitle,
+.page-node-2758 #pagetitle,
+.page-node-2763 #pagetitle,
+.page-node-2880 #pagetitle,
+.page-node-2891 #pagetitle,
+.page-graduate-student-directory #pagetitle {
+  font-size: 0;
+  width: 1px;
+  height: 1px;
+  display: inline-block;
+  overflow: hidden;
+  position: absolute!important;
+  border: 0!important;
+  padding: 0!important;
+  margin: 0!important;
+  clip: rect(1px,1px,1px,1px);
+}
+
+.node-type-course #pagetitle,
+.node-type-course-list #pagetitle,
+.node-type-grad-student #pagetitle,
+.node-type-promo-image #pagetitle,
+.node-type-newsletter #pagetitle,
+.node-type-alumni #pagetitle,
+.node-type-ugradnewsletter #pagetitle,
+.node-type-video-feed-item #pagetitle,
+.node-type-internship #pagetitle,
+.node-type-group #pagetitle {
+  font-size: 0;
+  width: 1px;
+  height: 1px;
+  display: inline-block;
+  overflow: hidden;
+  position: absolute!important;
+  border: 0!important;
+  padding: 0!important;
+  margin: 0!important;
+  clip: rect(1px,1px,1px,1px);
+}
+
+.wheeler {
+  font-size: 3.157rem;
+  margin-top: 0;
+}
+
+/* ///////////////////////////////////////////////////////////////////////////
+
+WDN Hero / Promo Images - Updated Fall 2017
+
+/////////////////////////////////////////////////////////////////////////// */
+
+.wdn-hero .wdn-hero-text-container .engl-hero-details-line {
+    display: block;
+    padding-top: .602em;
+    font-family: 'Gotham SSm A','Gotham SSm B',Verdana,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 19%;
+    line-height: 1.333;
+    letter-spacing: .075em;
+    text-shadow: 1px 1px 16px rgba(0,0,0,.5)
+}
+
+.engl-hero-credit-container { 
+  position: absolute;
+  right: 2rem;
+  bottom: 0;
+}
+
+.engl-hero-credit-container p {
+  color: #fff;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  text-transform: uppercase;
+  font-size: 8pt;
+  width: 100%;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+.engl-hero-credit-container { 
+    position: static;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-order: 3;
+    -ms-flex-order: 3;
+    order: 3;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    width: 100%;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+}
+
+.engl-hero-opacity {
+  opacity: 0.66;
+}
+
+.engl-hero-opacity-none {
+  opacity: 1;
+}
+
+
+@media (min-width:48em) {
+.wdn-hero.engl-hero-sm {
+	height: 12.62em
+}
+.objectfit .wdn-hero.engl-hero-sm {
+	height: 28vh;
+	min-height: 12.62em;
+	max-height: 16.827em
+}
+
+.objectfit .engl-hero-sm .wdn-hero-picture, .objectfit .engl-hero-sm .wdn-hero-video {
+	min-height: 12.62em
+}
+}
+
+@media (min-width:80em) and (min-height:718px) {
+.wdn-hero.engl-hero-sm {
+	height: 16.827em
+}
+.wdn-hero.engl-hero-sm {
+	height: 30vh;
+	max-height: 20.978em
+}
+}
+
+@media (min-width:48em) {
+.wdn-hero.engl-hero-md {
+	height: 18.93em
+}
+.objectfit .wdn-hero.engl-hero-md {
+	height: 42vh;
+	min-height: 18.93em;
+	max-height: 25.24em
+}
+
+.objectfit .engl-hero-md .wdn-hero-picture, .objectfit .engl-hero-md .wdn-hero-video {
+	min-height: 18.93em
+}
+}
+
+@media (min-width:80em) and (min-height:718px) {
+.wdn-hero.engl-hero-md {
+	height: 25.24em
+}
+.wdn-hero.engl-hero-md {
+	height: 45h;
+	max-height: 31.467em
+}
+}
+
+.engl-hero-md a,
+.engl-hero-md a:visited,
+.engl-hero-sm a,
+.engl-hero-sm a:visited {
+        color: rgb(255,255,255);
+        text-shadow: 1px 1px 16px rgba(0,0,0,.5);
+        font-size: 3rem;
+}
+
+.engl-hero-md a:hover,
+.engl-hero-sm a:hover {
+        color: rgba(255,255,255,0.66);
+        text-shadow: 1px 1px 16px rgba(0,0,0,1);
+}
+
+/* ///////////////////////////////////////////////////////////////////////////
+
+General Formatting and Alignment
+
+/////////////////////////////////////////////////////////////////////////// */
+
+#node-2790 .form-type-checkbox {
+    display: block;
+}
+
+
+.no-border {
+  border: 0px;
+}
+
+a.no-underline {
+  border-bottom: 0px solid rgba(0,0,0,0);
+}
+
+form label {
+  margin-top: 2em;
+}
+
+.english-headline {
+  text-align: center;
+}
+
+.custom-frame { 
+  background-color: #ece9e0; 
+}
+
+.custom-frame figcaption {
+  background-color: #e0ddd3;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.engl-frame {
+  padding: 4px;
+  border: 1px solid #d5d5d2;
+}
+
+.close-border {
+  border: 1px solid #d5d5d;
+}
+
+.portrait {
+  padding: 4px;
+  border: 1px solid #d5d5d2;
+  display: block;
+}
+
+.left-portrait {
+  float: left;
+  margin-right: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+#esab .portrait img,
+#esabadvisor .portrait img {
+  max-width: 200px;
+  display: block;
+}
+
+.align-figure {
+  margin-top: 1rem;
+}
+
+.mobile-only {
+  display: block;
+}
+
+.desktop-only {
+  display: none;
+}
+
+@media (min-width: 769px) {
+
+  .mobile-only {
+    display: none;
+  }
+
+  .desktop-only {
+    display: block;
+  }
+}
+
+.add-padding-top {
+ padding-top: 2em !important;
+}
+
+.padding-none {
+  padding: 0;
+}
+
+.padding-sm {
+  padding: 0.25em 0.75em;
+}
+
+.padding-md {
+  padding: 1em 3em 3em 3em;
+}
+
+.padding-lg {
+  padding: 2em 6em;
+}
+
+.padding-no-bottom {
+  padding-bottom: 0 !important;
+}
+
+.gotham {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.tungsten {
+  font-family:"Tungsten A","Tungsten B",HelveticaNeueCondensed,HelveticaNeue-Condensed,"Helvetica Neue Condensed",HelveticaNeueRomanCondensed,HelveticaNeue-Roman-Condensed,"Helvetica Neue Roman Condensed","Arial Narrow",HelveticaNeue,"Helvetica Neue",HelveticaNeueRoman,HelveticaNeue-Roman,"Helvetica Neue Roman",Helvetica,Tahoma,Geneva,Arial,sans-serif;
+}
+
+.mercury {
+  font-family: "Mercury Display A","Mercury Display B",Georgia,Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
+}
+
+.fine-print {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 0.75rem;
+}
+
+.backward { 
+    -moz-transform: scale(-1, 1); 
+    -webkit-transform: scale(-1, 1);  
+    transform: scale(-1, 1); 
+} 
+
+.read-more {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.more-news {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    text-transform: uppercase;
+    text-align: right;
+    margin-top: 0;
+}
+
+.engl-subhead {
+  margin-bottom: 2em;
+}
+
+.advising-document .engl-subhead {
+  margin-top: 2em;
+}
+
+.light {
+  font-weight: 200;
+}
+
+.no-bold {
+  font-weight: 400;
+}
+
+.semi-bold {
+  font-weight: 600;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.align-to-bottom {
+  position: absolute;
+  bottom: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0;
+}
+
+.center-text .align-to-bottom, .center-text.align-to-bottom {
+  left: 0;
+  right: 0;
+}
+
+.align-left {
+  float: left;
+  margin: 0 1rem 1rem 0;
+}
+
+.align-right {
+  float: right;
+  margin: 0 0 1rem 1rem;
+}
+
+.engl-img-h {
+  margin-top: 1rem;
+}
+
+img-150w {
+  max-width: 150px;
+  height: auto;
+}
+
+.align-center {
+  margin: 0 auto 0.5em auto;
+}
+
+.center-text{
+text-align: center;
+}
+
+.clear:after{
+  clear: both;
+}
+
+.overflow-y {
+  width: auto; 
+  overflow-y: scroll;
+  height: 250px;
+}
+
+@media (max-width:768px) {
+.overflow-y {
+  height: 175px;
+   }
+}
+
+@media (max-width: 480px) {
+.overflow-y {
+  margin-bottom: 1em;
+   }
+}
+
+ul {
+  padding-left: 2em;
+}
+
+.list-style-none {
+  list-style-type: none;
+  padding-left: 0 !important;
+}
+
+.wdn-light-complement-band .diamond {
+  background-image: url(images/patterns/diamond-green.png);
+}
+
+.wdn-light-neutral-band .diamond {
+  background-image: url(images/patterns/diamond-light-neutral.png);
+}
+
+.wdn-light-triad-band .diamond {
+  background-image: url(images/patterns/diamond-triad.png);
+}
+
+.engl-red-band .diamond {
+  background-image: url(images/patterns/diamond-scarlet.png);
+}
+
+.wdn-light-neutral-band .pattern-rectangle {
+  background-image: url(images/patterns/rec-neutral.png);
+}
+
+.engl-dark-neutral-band {
+  border-top: 5px solid rgba(0,0,0,0.3);
+  background-color: #035515;
+  color: #fff;
+  border-bottom: 5px solid rgba(0,0,0,0.3);
+}
+
+.engl-dark-neutral-band a,
+.engl-dark-neutral-band a:hover,
+.engl-dark-neutral-band a:visited {
+  color: #fff;
+  font-weight: 800;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Alumni & Alumni Teaser
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.alumnus .alumni-info {
+  margin-top: 1rem;
+}
+
+.alumni .field-name-field-image, .alumni-teaser .field-name-field-image {
+  width: 33%;
+  max-width: 33%;
+  float: left;
+  margin: 0.333rem 1.5rem 0 0;
+}
+
+@media (max-width: 968px) {
+  .alumni .field-name-field-image, .alumni-teaser .field-name-field-image {
+  width: 25%;
+  max-width: 25%;
+  float: left;
+  margin: 0.333rem 1.5rem 0 0;
+  }
+}
+
+figure.alumni-photo {
+  margin: 0;
+}
+
+.alumni-photo img {
+  width: 100%;
+  padding: 4px;
+  border: 1px solid #d5d5d2;
+}
+
+.alumni .field-name-body,
+.alumni-teaser .field-name-body {
+  display: inline;
+}
+
+.alumnus-teaser .website {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  line-height: 1.25;
+  margin: 0;
+}
+
+.alumnus-teaser h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.alumni-directory .alumni-info {
+  margin-top: 0.25rem;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Featured Alumni
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.engl-alumni-feature .wdn-col {
+    padding: 0;
+    overflow-x: hidden;
+    height: 250px;
+}
+
+.engl-alumni a:hover img {
+    opacity: 0.8;
+}
+
+.engl-alumni .alumni-photo img {
+    padding: 0;
+    border: none;
+}
+
+
+  
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Awards and Honors Pages
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.page-node-132 p+h3 {
+  margin: 2rem 0 0.25rem 0;
+    font-size: 2rem;
+}
+
+.page-node-132 h3+p {
+  margin-top: 0;
+}
+
+.award-title {
+    margin: 1.5rem 0 0.5rem 0;
+    font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-top: 2rem;
+}
+
+.award-title + p {
+  margin-top: 0;
+}
+
+.page-node-2770 h3 {
+  margin-top: 1.25rem;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Bands
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.engl-red-band {
+  background-color: #cc0000;
+  background-image: url(images/red_wave.png);
+  background-repeat: repeat;
+  color: #ffffff;
+  padding-top: 2.369em;
+  padding-bottom: 2.532em;
+}
+
+@media (min-width: 769px) {
+  .engl-red-band {
+    padding-top: 3.157em;
+    padding-bottom: 3.375em;
+  }
+}
+
+.how-to-apply {
+  padding-top: 36px;
+  background-color: #cc0000;
+  background: url(https://www.unl.edu/english/images/apply_texture.jpg) left top repeat;
+  color: #fff;
+}
+
+.how-to-apply h2 {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.how-to-apply h3,
+.how-to-apply h4,
+.how-to-apply .wdn-subhead {
+  color: #fff;
+}
+
+.how-to-apply p {
+  line-height: 2em
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Book Covers
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.faculty-page-books-block .book-cover {
+  padding: 0.5rem;
+}
+
+.faculty-page-books-block .book-cover img {
+    height: 200px;
+    width: auto;
+    border: 1px solid #d5d5d2;
+    padding: 4px;
+}
+
+.book-cover-carousel-item {
+  margin: 0 1em;
+}
+
+.book-cover-frame {
+  background: #ebe8df;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  overflow: auto;
+}
+
+.book-cover-frame a {
+    border-bottom: none !important;
+}
+
+@media (min-width:768px) {
+
+.book-cover-frame img {
+  max-height: 185px;
+}
+}
+
+.book-cover-image {
+  margin: auto;
+  margin-top: 0;
+  display: block;
+  width: auto;
+}
+
+.book-title {
+  display: block;
+  line-height: 1.75rem;
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+}
+
+.book-subtitle {
+  display: block;
+  line-height: 1rem;
+  margin-top:  .5rem;
+  margin-bottom: 0px;
+  font-size: 1rem;
+  font-weight: 500;
+  font-style: italic;
+  letter-spacing: -1px;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.book-authors {
+  display: block;
+  line-height: 1em;
+  font-size: 1.1rem;
+  font-family: "Mercury Display A","Mercury Display B",Georgia,Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
+  margin-top: 0.5rem;
+}
+
+.book-publish-info {
+  font-size: 0.75rem;
+  letter-spacing: -1px;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+/* ///////////////////////////////////////////////////////////////
+
+Buttons
+
+////////////////////////////////////////////////////////////// */
+
+.button-group {
+  display: block;
+}
+
+.button-group .wdn-button {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.button-list-horizontal {
+  padding: 2em 5px;
+}
+
+.button-list-horizontal .wdn-button{
+margin-bottom: 10px;
+}
+
+.wdn-button-white {
+  background: #fff;
+  color: #d00 !important;
+  font-size: 14px;
+  font-size: .85rem;
+}
+
+.button-list-vertical {
+  list-style-type: none;
+}
+
+.button-list-vertical a {
+  margin-bottom: 0.5rem;
+}
+
+.align-to-bottom .wdn-button {
+  margin-bottom: 2em;
+}
+
+
+/* ///////////////////////////////////////////////////////////////
+
+Calendar Widget
+
+////////////////////////////////////////////////////////////// */
+
+.wp-calendar td.today {
+  background-color: #d00000;
+  color: #fff;
+}
+
+.newsletter-events {
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.engl-calendar .upcoming-header {
+    font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    font-weight: 400;
+    font-size: 0.8125rem;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    margin-bottom: 1em;
+    padding-bottom: 0.339em;
+    border-bottom: 1px solid #D5D5D2;
+}
+
+.engl-calendar .event {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 0.75em;
+    color: #333333;
+    background-color: #fefdfa;
+}
+
+.newsletter-events .wp-calendar th,
+.newsletter-events .wp-calendar td {
+   color: #333333;
+}
+
+.engl-calendar .event .date {
+    float: left;
+    width: 4.209em;
+    text-align: center;
+    margin-right: 0.75em;
+    border-right: 1px solid #D5D5D2;
+}
+
+.engl-calendar .event .date .month {
+    padding-bottom: 0.178em;
+}
+
+.engl-calendar .event .date .month, 
+.engl-calendar .event .date .day, 
+.engl-calendar .event .date .time {
+    display: block;
+    line-height: 1;
+    font-style: normal;
+}
+
+.engl-calendar .event .date .day {
+    font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+    font-weight: 600;
+    font-size: 1.75rem;
+    padding-bottom: 0.134em;
+}
+
+@media (min-width: 769px) {
+  .engl-calendar .event .date .month, 
+  .engl-calendar .event .date .time, 
+  .engl-calendar .event .info .location  {
+    font-size: .625rem;
+   }
+  
+  .engl-calendar .event .date .day {
+    font-size: 1.75rem;
+  }
+}
+
+.engl-calendar .event .date .month {
+  padding-bottom: .178em; 
+}
+
+.engl-calendar .event .info .title {
+    line-height: 1.333;
+    padding-bottom: 0.254em;
+    font-size: 1em;
+}
+.engl-calendar .event .info .title, 
+.engl-calendar .event .info .location {
+    display: block;
+}
+
+.engl-calendar .event .date .month, 
+.engl-calendar .event .date .time, 
+.engl-calendar .event .info .location {
+    font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.625rem;
+}
+
+.engl-calendar .event .date .month, 
+.engl-calendar .event .date .time {
+    text-transform: uppercase;
+}
+
+.engl-calendar .see-all {
+    display: block;
+    font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.75rem;
+    margin: 1em 0px;
+}
+
+.engl-calendar .feeds a {
+    position: relative;
+    display: inline-block;
+    margin-right: 0.75em;
+    padding-left: 1em;
+    border: medium none;
+    font-family: "Tungsten A","Tungsten B",HelveticaNeueCondensed,HelveticaNeue-Condensed,"Helvetica Neue Condensed",HelveticaNeueRomanCondensed,HelveticaNeue-Roman-Condensed,"Helvetica Neue Roman Condensed","Arial Narrow",HelveticaNeue,"Helvetica Neue",HelveticaNeueRoman,HelveticaNeue-Roman,"Helvetica Neue Roman",Helvetica,Tahoma,Geneva,Arial,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 1.0625rem;
+    letter-spacing: 0.02em;
+}
+
+.engl-calendar .feeds a:before {
+    position: absolute;
+    top: 3px;
+    left: -0.1em;
+    font-family: eventicon;
+    font-style: normal;
+    font-weight: 400;
+    display: inline-block;
+    text-decoration: inherit;
+    width: 1em;
+    margin-right: 0.2em;
+    text-align: center;
+    font-variant: normal;
+    text-transform: none;
+    font-size: 0.8125rem;
+    color: #C1C0BE;
+}
+
+p.more-events {
+  font-size: 12px;
+  text-align: right;
+  text-transform: uppercase;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Components
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.component {
+  margin-top: 0;
+  margin-bottom: 2.5em;
+}
+
+@media (min-width: 769px) {
+ .component {
+    margin-bottom: 5rem;
+  }
+}
+
+@media (min-width: 769px) {
+  .wdn-grid-set.equal-column-height {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+  }
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Component 3
+
+///////////////////////////////////////////////////////////////////////////*/
+
+
+.component-three {
+  padding: 20px;
+}
+
+.component-three span {
+  display: block;
+}
+
+.component-three .see-all-right-alig n {
+  margin-top: -2em;
+}
+
+.component-three img {
+  width: 100%;
+}
+
+.component-three .stat {
+  color: #c00;
+  font-size: 3rem;
+  line-height: 4rem;
+}
+
+.component-three .title {
+  display: block;
+  color: #7b7a76;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  padding-bottom: 0.5rem;
+}
+
+.component-three .carousel-wrapper {
+  margin: 0;
+}
+
+.component-three .content {
+  line-height: 1.4em;
+}
+
+.carousel-item {
+  width: 100%;
+  float: left;
+  padding: 10px 0;
+}
+
+.carousel-item .statistic {
+  background: #eceae3;
+  text-align: center;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.component-three-title {
+  margin-bottom: 2rem;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.component-three .content h2,
+.component-three .content h3,
+.component-three .content h4,
+.component-three .content h5,
+.component-three .content h6
+{
+  margin-bottom: 0.5rem;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Component 9
+
+///////////////////////////////////////////////////////////////////////////*/
+
+
+.component-nine {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.component-nine p:first-of-type {
+  margin-top: 0;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Component 12
+
+///////////////////////////////////////////////////////////////////////////*/
+
+
+.component-twelve {
+	padding: 0 .7rem;
+}
+.component-twelve img {
+	width: 100%;
+	display: block;
+}
+.component-twelve .twelve-column {
+	padding: 0 !important;
+}
+.component-twelve .twelve-content {
+	padding: 20px 20px 2.5rem 20px;
+	position: relative;
+}
+
+.component-twelve .twelve-content h2 {
+  font-weight: 400;
+  text-align: center;
+}
+
+.component-twelve .twelve-content .wdn-button {
+  margin-top: 2em;
+}
+.component-twelve .wdn-grid-set {
+	background: #eceae3;
+}
+.component-twelve h1, .component-twelve h2, .component-twelve h3, .component-twelve h4, .component-twelve h5, .component-twelve h6 {
+	margin-top: 0;
+}
+
+.component-twelve .border-right {
+  border-bottom: none;
+}
+
+
+.border-right{
+  border-right: 1px solid rgba(27, 154, 232, .55);
+}
+
+@media (max-width: 481px){
+  .border-right, .component-twelve .border-right {
+   border-bottom: 1px solid rgba(27, 154, 232, 0.55);
+   border-right: none;
+  }
+
+  .columns{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: inherit;
+  }
+}
+
+.content-columns {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+
+.columns {
+  padding-bottom: 2rem;
+  position: relative;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Component 13 and 14
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.component-thirteen {
+  background: #eceae3;
+  padding: 20px;
+}
+
+.component-thirteen-header {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.component-thirteen .align-to-bottom {
+  padding: 0;
+}
+
+.component-thirteen .columns {
+  padding-bottom: 5rem !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  width: 100%;
+}
+
+.component-thirteen .columns h3 {
+  text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.67);
+}
+
+.component-thirteen.uses-images {
+  padding: 0;
+  color: #fff;
+}
+
+.thirteen-inner-column {
+ padding: 20px 0; 
+}
+
+.thirteen-column {
+  float: left;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  margin-left: 1px;
+}
+
+@media (max-width:480px) {
+  margin-bottom: 1px;
+  margin-left: 0;
+}
+}
+
+.uses-images .thirteen-column .align-to-bottom {
+  bottom: 20px;
+}
+
+.component-thirteen.uses-images h1,
+.component-thirteen.uses-images h2,
+.component-thirteen.uses-images h3,
+.component-thirteen.uses-images h4,
+.component-thirteen.uses-images h5,
+.component-thirteen.uses-images h6 {
+  color: #fff;
+}
+
+.component-thirteen h2,
+.component-thirteen h3,
+.component-thirteen h4,
+.component-thirteen h5,
+.component-thirteen h6,
+.component-fourteen h2,
+.component-fourteen h3,
+.component-fourteen h4,
+.component-fourteen h5,
+.component-fourteen h6
+{
+  margin: 0.4rem 0 1rem 0;
+}
+
+.component-fourteen {
+  background-color: #eceae3;
+  width: 100%;
+}
+
+.fourteen-image-container {
+  width: 100%;
+  float: right;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  max-height: 18rem;
+}
+
+.fourteen-image-container img {
+  width: 100%;
+  display: block;
+  margin-top: -100px;
+}
+
+.fourteen-content {
+  width: 100%;
+  float: left;
+  padding: 1em;
+}
+
+@media (min-width: 1280px) {
+  .fourteen-content {
+    padding: 2rem;
+    width: 50%;
+  }
+
+  .fourteen-image-container {
+    width: 50%;
+    max-height: none;
+  }
+
+  .fourteen-image-container img {
+    margin-top: 0px;
+  }
+}
+
+.zenbox h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.three-column-content h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Courses
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.course-poster img {
+    border: 1px solid #d5d5d2;
+    max-height: 500px;
+    width: auto !important;
+    margin: 0 auto;
+}
+
+.quote-top {
+  margin-top: -2em;
+  }
+}
+
+@media (max-width:480px) {
+  .quote-top {
+    margin-top: -3em;
+  }
+}
+
+.courseID {
+	float: left;
+        min-width: 75px;
+	border-radius: 0.317em;
+	padding: 0.602em 0.339em 0.75em;
+	text-align: center;
+	background-color: #cedfe3;
+	color: #213847;
+        margin-top: 0.8em;
+}
+
+.course-teaser {
+  margin-bottom: 2em;
+  height: 6rem;
+}
+
+.course-teaser .courseID {
+  max-width: 80px;
+  float: right;
+  padding: 0.602em 0.339em 0.75em;
+  margin-top: 0;
+}
+
+.courseinstructor {
+        font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 0.9rem;
+        text-transform: uppercase;
+}
+
+.course-teaser .courseinstructor {
+      margin-top: 0.1em;
+}
+
+.subjectCode {
+	position: relative;
+	display: block;
+	padding-bottom: 0;
+	font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 0.802rem;
+}
+
+.course-teaser .subjectCode {
+        display: inline;
+        font-size: 0.75rem;
+        margin: 0;
+}
+
+.number {
+	display: block;
+	margin-top: -0.1em;
+	font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	font-size: 2.532rem;
+        line-height: 1;
+}
+
+.course-teaser .number {
+        font-size: 1.75rem;
+        margin-top: -0.2em;
+}
+
+.coursetitle {
+	display: block;
+	margin-top: 0.254em;
+	padding-bottom: 0.254em;
+	font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+	font-weight: 400;
+	font-size: 2.369rem;
+ 	border-bottom: 1px solid #e1dfd7;
+ 	line-height: 1;
+}
+
+.course-teaser .coursetitle {
+      font-size: 2rem;
+      margin-top: 0;
+}
+
+.coursetitle:hover {
+	color: #900;
+}
+
+.course-description {
+	margin: 7px 0 4px 0;
+}
+
+.course-description div {
+	display: inline;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+comprhet "Our Values" section
+
+///////////////////////////////////////////////////////////////////////////*/
+
+@media (min-width: 768px) {
+  .wdn-grid-set {
+      margin-bottom: 1.5rem;
+  }
+  .comprhet-values .vertical-border-left {
+      border-left: 1px solid #d5d5d2;
+      padding-left: 10%;
+  }
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Faculty
+
+///////////////////////////////////////////////////////////////////////////*/
+  
+h4.group-name { padding-left: .7rem; }
+
+.node-type-faculty .faculty-meta {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.node-type-faculty .faculty-meta-nophoto {
+  margin-left: 10px;
+}
+
+@media (max-width: 480px) {
+.node-type-faculty .faculty-meta {
+  display: block;
+}
+}
+
+.field-name-field-body-section-title {
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+  color: #474746;
+  font-weight: 600;
+  line-height: 1em;
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.25em;
+  font-feature-settings: "kern";
+  font-size: 2.5625rem;
+  border-bottom: 1px solid #d3d0c8;
+}
+
+.field-name-field-body-section-content {
+  margin-bottom: 3em;
+}
+
+.faculty-body {
+  clear: both;
+  padding-top: 3em;
+}
+
+.faculty-body h2,
+.faculty-body h3,
+.faculty-body h4,
+.faculty-body h5,
+.faculty-add-meta h2,
+.faculty-add-meta h3,
+.faculty-add-meta h4,
+.faculty-add-meta h5
+{
+  border-bottom: 1px solid #d3d0c8;
+  padding-bottom: 4px;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 1rem;
+}
+
+.faculty-add-meta h2,
+.faculty-add-meta h3,
+.faculty-add-meta h4,
+.faculty-add-meta h5 {
+  margin-top: 0;
+}
+
+.faculty-meta span {
+  display: block;
+}
+
+.faculty-meta .website, .person-info .website {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.faculty-title {
+  font-size: 20px;
+  text-transform: uppercase;
+  line-height: 1em;
+  margin-bottom: 6px;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  
+}
+
+.node-type-faculty h2 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.faculty-add-meta {
+  background: none repeat scroll 0% 0% rgba(239,236,225,0.5);
+}
+
+.faculty-add-meta span {
+  display: block;
+}
+
+.degree-notes {
+  font-style: italic;
+  margin-top: 0.25rem;
+  font-size: 0.9em;
+  line-height: 1.25rem;
+}
+.directory-section-title {
+  background: #d00000;
+  border-bottom: 5px solid #a80000;
+  border-top: 1px solid #a80000;
+  padding: 1em 0;
+  margin-top: 1em;
+  margin-bottom: 1.5em;
+}
+
+.directory-section-title h2 {
+  margin: 0;
+}
+
+.directory-section-title a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.wdn-button-brand.active {
+  background: #a80000;
+}
+
+.faculty-directory .wdn-grid-set-halves {
+  margin-bottom: 50px;
+}
+
+h4.group-name { 
+  padding-left: .7rem; 
+}
+
+.right-align {
+  text-align: right;
+}
+
+.faculty-profile-pic-wrap {
+  margin-right: 1em;
+}
+
+.node-type-faculty .faculty-profile-pic-wrap {
+  margin-bottom: 1em;
+}
+
+.pic-wrap {
+  height: 148px;
+  width: 148px;
+  border: 6px solid #e3e0d9;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  float: left;
+  overflow: hidden;
+}
+
+.faculty-listing .pic-wrap,
+.faculty-profile-pic-wrap {
+  height: 148px;
+  width: 148px;
+  border: 6px solid #e3e0d9;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  float: left;
+  overflow: hidden;
+}
+
+.faculty-listing img,
+.faculty-profile-pic-wrap img {
+  width: 100%;
+}
+
+.faculty-listing .wdn-brand {
+  line-height: 2;
+}
+
+.faculty-listing h3 {
+  font-size: 28px;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+}
+
+.faculty-listing .title {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  text-transform: uppercase;
+  margin-bottom: 0.25em;
+}
+
+.faculty-listing .person-info {
+  padding-left: 163px;
+}
+
+.person-info .faculty-interests {
+  margin: 0.2rem 0 1rem 0 ;
+  font-size: 0.95rem;
+  letter-spacing: 0.02; 
+  font-style: italic;
+}
+
+.faculty-listing .group-name {
+  font-size: 38px;
+}
+
+.faculty-listing .bp2-wdn-col-one-half {
+  min-height: 210px;
+}
+
+.faculty-listing .bp2-wdn-col-one-half span {
+  display: block;
+  line-height: 1.4em;
+}
+
+.faculty-listing .bp2-wdn-col-one-half span {
+  display: block;
+}
+
+.node-type-concentration .faculty-listing .person-info {
+  margin-bottom: 2em;
+}
+
+.faculty-bio .owl-wrapper-outer {
+  max-height: 25rem;
+}
+
+.faculty-bio h2 {
+  line-height: 1.1em;
+  margin-bottom: 0.5em;
+}
+
+.faculty-bio h3 {
+  font-weight: 400;
+  font-size: 2rem;
+  margin-top: 1em;
+}
+
+.faculty-bio h3:first-child {
+  margin-top: 1rem;
+}
+
+.faculty-bio p {
+    margin-bottom: 1em;
+}
+
+.section-title, .section-title-meta {
+        font-size: 36px;
+        color: rgb(71, 71, 70);
+        font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+        font-weight:600;
+        line-height: 1.1em;
+        margin-top: 14px;
+        margin-bottom: 14px;
+}
+
+.section-title-meta {
+      margin-top: 1em;
+      margin-bottom: 0.5em;
+  
+}
+
+.faculty-section {
+    margin-bottom: 1em;
+}
+
+.faculty-island {
+  background: none repeat scroll 0% 0% rgba(239,236,225,0.5);
+  margin-bottom: 2em;
+}
+
+.faculty-island .titlebar {
+     background-color: rgb(239,236,225);
+}
+
+.faculty-hours {
+  background: none repeat scroll 0% 0% rgba(231,240,244,0.5);
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+}
+
+.faculty-hours .titlebar {
+  background-color: rgb(231, 240, 244);
+}
+
+.faculty-island .titlebar, .faculty-hours .titlebar {
+     font-size: 28px;
+     padding: 2px 1rem;
+}
+
+.faculty-island-text {
+  padding: 0em 1em 1.5em 1em;
+  font-size: 0.9rem;
+}
+
+.faculty-hours .faculty-island-text {
+  padding-bottom: 1em;
+}
+
+.faculty-island-text p {
+  margin-bottom: 0;
+}
+
+
+.faculty-island-text a {
+  border-bottom: 0 !important;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Fellowships
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.node-type-fellowship #pagetitle {
+  text-align: left !important;
+}
+
+.node-type-fellowship #maincontent {
+  margin-top: 0;
+}
+
+.node-type-fellowship .faculty-listing {
+  margin-bottom: 1em;
+}
+
+.recipients {
+  padding: 0 2em 0.5em 2em; 
+}
+
+.recipients-island .titlebar {
+  padding: 0.5em;
+}
+
+.recipients-island {
+  background: rgba(239,236,225,0.5);
+}
+
+.fellowship-title {
+  margin: 0 0 0.75rem 0;
+  line-height: 1;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  padding-bottom: 0.25em;
+}
+
+.fellowship-source, .fellowship-deadline {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.fellowship-eligibility {
+  margin: 0.5rem 0 0.5rem 0;
+}
+
+#edit-field-fellowship-area-tid {
+  max-width: 200px;
+}
+
+#edit-field-foundation-tid {
+  max-width: 400px;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Forms / Webform Elements
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.field-collection-container {
+  border: 0 !important;
+}
+
+input#edit-submitted-course-academic-session-1 label {
+  font-size: .9rem;
+}
+
+#webform-component-course--academic-year{
+ width: 100px;
+}
+
+form input#edit-submitted-course-academic-year {
+  width: 100px !important;
+  margin-bottom: 2em;
+}
+
+form legend { 
+  margin-bottom: 0.25rem;
+  padding: 0;
+  line-height: 1.5;
+}
+
+.fieldset-legend {
+ font-size: 36px;
+ font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+}
+
+form label.option {
+  font-size: 1rem;
+  margin-right: 2.5em;
+  font-weight: 500;
+}
+
+fieldset label {
+  margin-top: 2em;
+}
+
+.webform-component-markup
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 0.8em;
+}
+
+#edit-submitted-body-body-file-upload-button--2 {
+  clear: both;
+  margin-left: 0.5em;
+}
+
+#edit-draft {
+  margin-right: 1em;
+}
+
+#edit-submit {
+  background-color: #d00000;
+  padding: 1.069em 1.333em 1em;
+  font-size: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-item .description {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 0.8em;
+  line-height: 1.1;
+  margin-top: 0.4em !important;
+}
+
+.fieldset-description {
+  margin-bottom: 1em;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Graduate Students
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.page-graduate-student-directory #wdn_content_wrapper {
+  padding-top: 0 !important;
+}
+
+.page-graduate-student-directory .wdn-promo-band {
+  max-height: 450px;
+  overflow: hidden;
+  margin-bottom: 0;
+  background-color: #000;
+}
+
+@media (max-width:768px){
+.page-graduate-student-directory .wdn-promo-band{
+    max-height: 300px;
+  }
+}
+
+@media (max-width:480px){
+.page-graduate-student-directory .wdn-promo-band{
+    max-height:250px;
+  }
+}
+
+.views-exposed-form #edit-field-last-name-value {
+  width: 70px;
+  font-size: 0.8rem;
+  margin-right: 1.5em;
+}
+
+.views-exposed-form #edit-field-feed-tags-tid {
+  width: 200px;
+  font-size: 0.8rem;
+  margin-right: 1.5em; 
+}
+
+.views-exposed-form #edit-field-feed-tags-tid-1 {
+  width: 150px;
+  font-size: 0.8rem;
+  margin-right: 1.5em;
+}
+
+.grad-teaser {
+  margin-bottom: 1.5em;
+}
+
+.grad-teaser .align-left {
+  float: left;
+  margin: 0 1em 0 0;
+}
+
+.grad {
+  margin-top: 3em;
+}
+
+.grad .wdn-button {
+  margin-top: 2em;
+}
+
+.grad-photo {
+    margin: 0;
+    float: left;
+    width: 100%;
+}
+
+.grad-photo img {
+    width: 100%;
+    max-width: 100%;
+    padding: 4px;
+    border: 1px solid #d5d5d2;
+}
+
+.grad h3, .grad-directory h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.grad-info {
+  margin-top: 0.25rem;
+}
+
+.grad-info span {
+  display: block;
+}
+
+.grad strong, .grad-directory strong {
+  font-weight: normal;
+}
+
+span.website {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.grad-bio .read-more {
+  display: block;
+  text-align: right;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Tabbed File Hub with Preview Images
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.hub-news-meta .read-more {
+  position: absolute;
+  bottom: 0;
+  right: .5em;
+}
+
+.page-node-99 .hub-display {
+  padding-bottom: 2em;
+}
+
+.wdn_tabs_content ul {
+  margin: 0;
+}
+
+.hub-display {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  position: relative;
+}
+
+.hub-display h2 {
+  margin-top: 0;
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.hub li {
+  background-color: #f8f5ec;
+  font-size: 1.75rem;
+  line-height: 1.25;
+  max-width: 25%;
+  text-align: center;
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+}
+
+.hub li.selected{
+  background-color: #f8f5ec;
+}
+.hub li a {
+  padding-bottom: 0;
+}
+.hub li.selected a{
+  color: #CC0000;
+  padding-bottom: 0;
+
+}
+
+.hub-content a {
+  font-size: 13px;
+}
+
+.hub-content .read-more {
+  float: right;
+  font-size: 13px;
+  margin-top: -20px;
+}
+
+.hub-content .see-all{
+  margin-top: 5px;
+}
+
+.hub-content p{
+  margin-top: 0;
+  font-size: .85em;
+  line-height: 1.5;
+  padding-right: 10px;
+}
+
+.hub-content p:last-of-type{
+  margin-bottom: 0;
+}
+
+.hub-news-meta .read-more {
+  position: absolute;
+  bottom: 0;
+  right: .5em;
+}
+
+.arrow-up{
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 20px solid #e5e1d1;
+  margin: 0 auto;
+  display: none;
+}
+.selected .arrow-up{
+  display: block;
+}
+
+.center-text{
+text-align: center;
+}
+
+.zenbox ul {
+  padding-left: 1.2em;
+}
+
+.bp2-wdn-col-one-half.hub-display{
+  width: 90%;
+  margin-left:10px;
+  margin-right:10px;
+  margin-bottom:10px;
+}
+.bp2-wdn-col-one-third.hub-display{
+  width: 95%;
+  margin: 10px;
+  margin-top: 0;
+}
+.bp2-wdn-col-one-third.hub-display img{
+  width: 33%;
+  float: left
+}
+.bp2-wdn-col-one-third.hub-display div{
+  width: 60%;
+  display: inline-block;
+  margin-left: 5%;
+}
+
+@media (min-width: 769px) {
+  .bp2-wdn-col-one-half.hub-display{
+    width: 45%;
+    margin-bottom:inherit;
+  }
+  .bp2-wdn-col-one-third.hub-display{
+    width: 31%;
+    margin: 5px 1% 20px 1.333%;
+  }
+  .bp2-wdn-col-one-third.hub-display img{
+    width: auto;
+    float: none;
+  }
+  .bp2-wdn-col-one-third.hub-display div{
+    width: auto;
+    display: inherit;
+    margin-left: inherit;
+  }
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Homepage News / TL-NT Module
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.tl-nt-module-heading { 
+padding-top: .602em;
+padding-bottom: .602em;
+background: linear-gradient(to right,#eae9e6 0,rgba(234,233,230,0) 100%) no-repeat;
+background-size: 100% 1px;
+}
+.tl-nt-module-heading h2 { 
+display: inline-block;
+margin-top: 0;
+font-size: .9230769rem;
+text-transform: uppercase;
+line-height: 1.333;
+}
+@media (min-width: 48em) { 
+.tl-nt-module-heading h2 { 
+font-size: .802rem;
+}
+
+}
+.tl-nt-heading-wrapper { 
+display: inline;
+}
+.tl-nt-cta { 
+display: inline;
+margin-left: 1.777em;
+font-size: .7692308rem;
+}
+@media (min-width: 48em) { 
+.tl-nt-cta { 
+font-size: .75rem;
+}
+
+}
+.tl-nt-cta: before { 
+display: inline-block;
+font-size: 1.333em;
+color: #adacaa;
+transform: translateY(2%);
+}
+.tl-nt-cta-icon { 
+height: 1rem;
+width: 1rem;
+margin-right: .451em;
+vertical-align: sub;
+}
+.tl-nt-teaser-grid { 
+display: -ms-flexbox;
+display: flex;
+-ms-flex-flow: row wrap;
+flex-flow: row wrap;
+}
+@media (max-width: 59.99em) { 
+.tl-nt-teaser { 
+margin-bottom: 1.777em;
+}
+
+}
+.tl-nt-teaser-flex { 
+display: -ms-flexbox;
+display: flex;
+-ms-flex-flow: row nowrap;
+flex-flow: row nowrap;
+-ms-flex-align: center;
+align-items: center;
+}
+@media (min-width: 40em) { 
+.tl-nt-teaser-flex { 
+-ms-flex-direction: column;
+flex-direction: column;
+}
+
+}
+.tl-nt-teaser-flex>div: first-of-type { 
+-ms-flex-order: 2;
+order: 2;
+}
+.tl-nt-teaser-flex>div: last-of-type { 
+-ms-flex-order: 1;
+order: 1;
+}
+.tl-nt-heading { 
+margin: 0 0 .143em;
+font-size: 2.1538462rem;
+}
+@media (min-width: 40em) { 
+.tl-nt-heading { 
+margin-top: .254em;
+}
+
+}
+@media (min-width: 48em) { 
+.tl-nt-heading { 
+font-size: 1.899rem;
+}
+
+}
+.tl-nt-teaser-image { 
+background: transparent url(/images/line-squares-tile.svg) 50% 50% repeat;
+background-size: 1.777em;
+}
+.tl-nt-teaser-image a { 
+display: block;
+position: relative;
+width: 100%;
+height: 0;
+padding-bottom: 56.25%;
+overflow: hidden;
+border: 1px solid #eae9e6;
+transition: border .5s ease-out;
+}
+.tl-nt-teaser-image a: hover { 
+border: 1px solid #d00000;
+transition: border .3s ease-out;
+}
+.tl-nt-teaser-image img { 
+display: block;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+height: 100%;
+width: auto;
+}
+.tl-nt-read-more { 
+display: block;
+width: 100%;
+margin-top: 1.333em;
+text-align: right;
+font-size: .7692308rem;
+text-transform: uppercase;
+letter-spacing: .02em;
+}
+.tl-nt-read-more a: after { 
+content: '\2192';
+padding-left: .254em;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Homepage News / .splash-news
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.splash-news {
+    padding-top: 1.5rem;
+}
+
+.splash-news figure {
+  margin-top: 0;
+}
+
+.splash-news p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.splash-news .wdn-grid-set {
+  margin-bottom: 0;
+}
+
+.splash-news .wdn-col-two-thirds {
+  padding-left: 2rem;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Humanities on the Edge
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.hote-poster {
+  width: 100%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hote-poster img {
+ border: solid 1px #666666;
+}
+
+.hote-list {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  line-height: 1.25rem;
+  margin-top: 2em;
+}
+
+.news-grid-content .hote-list {
+  margin-top: 0.5em !important;
+}
+
+.news-grid-content .hote-lecture {
+  margin: 0.5em 0;
+}
+
+.hote-list p {
+margin-left: 20px;
+font-size: 16px;
+}
+
+.hote-spkr {
+  font-weight: 600;
+  font-size: 1.1em;
+  display: block;
+}
+
+.hote-spkr-info {
+  font-size: .8em;
+  font-style: italic;
+  display: block;
+}
+
+.hote-lecture {
+  display: block;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Icons / Iconography
+
+///////////////////////////////////////////////////////////////////////////*/
+
+@font-face {
+  font-family: FontAwesomeRegular;
+  src: url(https://www.unl.edu/english/includes/fonts/fa-regular-400.woff);
+}
+
+@font-face {
+  font-family: FontAwesomeSolid;
+  src: url(https://www.unl.edu/english/includes/fonts/fa-solid-400.woff);
+}
+
+.button-group-icons {
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+  font-size: 2rem;
+  line-height: 1;
+  text-align: center;
+}
+
+.button-group-icons a span {
+  font-family: FontAwesomeRegular;
+  font-size: 4.5rem;
+  display: block;
+  padding-bottom: 1rem;
+}
+
+.majors a .wdn-subhead {
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 2em;
+  color: rgb(221,0,0) !important;
+}
+
+.major-icon a .film-icon,
+.major-icon a .comp-icon,
+.major-icon a .lit-icon,
+.major-icon a .creative-icon,
+.major-icon a .place-icon,
+.major-icon a .dh-icon,
+.icon {
+  width: 100px;
+  height: 100px;
+  margin: 0px auto;
+  padding-top: 0.85em;
+  -webkit-border-radius: 50%;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 50%;
+  -moz-background-clip: padding;border-radius:50%;
+  background-clip: padding-box;
+  background-color: transparent;
+  -webkit-transition: -webkit-box-shadow 0.2s ease;
+  -moz-transition: -moz-box-shadow 0.2s ease;
+  -o-transition: box-shadow 0.2s ease;
+  -ms-transition: box-shadow 0.2s ease;
+  transition: box-shadow 0.2s ease;
+}
+
+@media (max-width:768px) {
+  .major-icon a .film-icon,
+  .major-icon a .comp-icon,
+  .major-icon a .lit-icon,
+  .major-icon a .creative-icon,
+  .major-icon a .place-icon,
+  .major-icon a .dh-icon,
+  .icon {
+    padding-top: 1.05em;
+  }
+}
+
+.major-icon a .film-icon img,
+.major-icon a .comp-icon img,
+.major-icon a .lit-icon img,
+.major-icon a .creative-icon img,
+.major-icon a .place-icon img,
+.major-icon a .dh-icon img {
+   width: 75px;
+   height: 75px;
+  -webkit-transition: -webkit-transform 0.2s ease;
+  -moz-transition: -moz-transform 0.2s ease;
+  -o-transition: -o-transform 0.2s ease;
+  -ms-transition: -ms-transform 0.2s ease;
+  transition:transform 0.2s ease;
+}
+
+.major-icon a:hover .film-icon,
+.major-icon a:hover .comp-icon,
+.major-icon a:hover .lit-icon,
+.major-icon a:hover .dh-icon,
+.major-icon a:hover .creative-icon,
+.major-icon a:hover .place-icon {
+  -webkit-box-shadow: 0px 0px 0 6px #cc0000,inset 0 0 0 3px #ffffff,inset 0 0 0 6px rgba(204,0,0,0.4);
+  -moz-box-shadow: 0px 0px 0 6px #cc0000,inset 0 0 0 3px #ffffff,inset 0 0 0 6px rgba(204,0,0,0.4);
+  box-shadow: 0px 0px 0 6px #cc0000,inset 0 0 0 3px #ffffff,inset 0 0 0 6px rgba(204,0,0,0.4);
+}
+
+.major-icon a:hover .film-icon img,
+.major-icon a:hover .comp-icon img,
+.major-icon a:hover .lit-icon img,
+.major-icon a:hover .dh-icon img,
+.major-icon a:hover .creative-icon img,
+.major-icon a:hover .place-icon img {
+  -webkit-transform: scale(0.8);
+  -moz-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+}
+
+
+
+.streamline {
+  font-family: "streamline-30px-filled-in";
+}
+
+.streamline-outline {
+  font-family: "streamline-30px";
+}
+
+[class^="streamline-"], [class*=" streamline-"] {
+    font-family: 'streamline-30px-filled-in';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="outline-"], [class*=" outline-"] {
+    font-family: 'streamline-30px';
+    display: inline-block;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.outline-briefcase-2:before {
+  content: "\e190"
+}
+
+.outline-bubble-conversation-4:before {
+    content: "\e0c2";
+}
+
+.outline-clock-3:before {
+    content: "\e322";
+}
+
+.outline-connection-1:before {
+    content: "\e144";
+}
+
+.outline-file-list:before {
+    content: "\e264";
+}
+
+.outline-hand-grab:before {
+    content: "\e042";
+}
+
+.outline-laptop-2:before {
+    content: "\e425";
+}
+
+.outline-plane-takeoff:before {
+    content: "\e5b1";
+}
+
+
+
+@font-face {
+font-family: "icomoon";
+src: url(includes/fonts/icomoon.woff);
+}
+
+.icomoon {
+font-family: "icomoon";
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    font-family: 'icomoon';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.affiliated-programs h2 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.affiliate-icon {
+    display: block;
+    padding-top: 0.25em;
+    font-family: 'Gotham SSm A','Gotham SSm B',Verdana,'Verdana Ref',Geneva,Tahoma,'Lucida Grande','Lucida Sans Unicode','Lucida Sans','DejaVu Sans','Bitstream Vera Sans','Liberation Sans',sans-serif;
+    color: #333;
+}
+
+.engl-icon, 
+.icon-scarlet,
+.icon-white {
+  display: block;
+  margin-bottom: -20px;
+  font-size: 72px;
+}
+
+.icon-scarlet {
+  color: #d00000;
+}
+
+.icon-white {
+  color: #ffffff;
+} 
+
+.affiliate-icon {
+  display: block;
+  margin-bottom: -10px;
+  font-size: 60px;
+  text-align: center;
+}
+
+.affiliate-icon a {
+    font-size: 11pt;
+    text-transform: uppercase;
+    line-height: initial;
+    display: block;
+    color: #333 !important;
+}
+
+.engl-icon-title, .affiliate-icon-title {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.engl-icon-title {
+  font-size: 1rem;
+}
+
+.affiliate-icon-title {
+  font-size: 0.9rem;
+}
+
+
+.engl-button a:visited {
+  color: #c00;
+}
+
+.affiliate-icon a:visited {
+  color: #333;
+}
+
+.button-subtitle {
+  text-align: center;
+  font-size: 16px;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  display: block;
+  margin: auto;
+  line-height: 2em;
+  color: rgba(91, 91, 90, 0.9);
+}
+
+.photo-button .pic-wrap,
+.photo-button-pic-wrap {
+  height: 148px;
+  width: 148px;
+  border: 6px solid #A4A4A4;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.photo-button-pic-wrap img {
+  width: 100%;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Instructions (Article class resetting heading sizes, images, etc.)
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.instructions h3 {
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 0.5;
+}
+
+.instructions img {
+  border: 1px solid #d5d5d2;
+  max-width: 88%;
+  margin: 1.5rem 0 2rem 0;
+}
+
+@media (max-width:480px) {
+  .instructions img {
+  margin-left: auto;
+  margin-right: auto;
+  }
+}
+  
+/*///////////////////////////////////////////////////////////////////////////
+
+Internships - updated 20171009
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.view-internships .internship {
+  padding-bottom: 3rem;
+}
+
+.internship h4:first-of-type {
+  margin-top: 1rem;
+}
+
+.internship figure, .internship h3 {
+  margin-top: 1rem;
+}
+
+.internship img {
+  border: 1px solid #d5d5d2;
+}
+
+.internship .wdn-subhead {
+  margin: 0;
+}
+
+.internship .field-name-field-contact-information p {
+  margin: 0;
+}
+
+
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Navigation
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.engl-subnav { 
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 2;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  display: block;
+  margin: 0;
+}
+
+.engl-subnav a {
+  white-space: nowrap;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+News
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.page-node-823 .carousel-item,
+.page-node-611 .carousel-item {
+  padding-left: .5em;
+  padding-right: .5em;
+}
+
+.page-node-823 .carousel-item h4,
+.page-node-611 .carousel-item h4 {
+  font-weight: 600;
+}
+
+.page-node-823 .news-grid-read-more {
+  padding-right: 2em;
+  margin-bottom: 1em;
+}
+
+.news-filters {
+  border-top: 1px solid #dfdcd4;
+  border-bottom: 1px solid #dfdcd4;
+  width: 100%;
+  margin-bottom: 2em;
+    padding: 25px 0 50px 0px;
+}
+
+.newsletter-filters {
+  padding: 0 0 0 0;
+  border-top: 1px solid #dfdcd4;
+  border-bottom: 1px solid #dfdcd4;
+  width: 100%;
+}
+
+
+#maincontent .wdn-band .news-filters .wdn-inner-wrapper {
+  padding-bottom: 0;
+}
+
+.filter-item {
+  padding-right: 1.25em;
+  display: inline-block;
+}
+
+.right-filter-item {
+  float: right;
+  padding-bottom: 1em;
+}
+
+.filter-label {
+  display: inline-block;
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+  font-size: 1.3rem;
+  line-height: 1rem;
+}
+
+.page-node-611 p.more-news {
+display: none;
+}
+
+.page-node-1 p.more-news {
+font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif; 
+font-weight: 400;
+font-style: normal; 
+text-transform:uppercase;
+font-size: 12px;
+text-align: right;
+margin-right: -10px;
+}
+
+.more-news {
+  text-align: right;
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.5em;
+}
+
+/* ///////////////////////////////////////////////
+
+Feed Items & News Items 
+
+////////////////////////////////////////////// */
+
+.node-type-feed-item h1 {
+  margin-bottom: 0.5em;
+}
+
+.divider {
+  padding: 1em 0;
+  border-top: 1px solid #dfdcd4;
+}
+
+.divider p:first-child {
+  margin-top: 0;
+}
+
+.tertiary-events .events-feed .wdn-col {
+  padding: 0;
+}
+
+.author {
+  display: block;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.author-info {
+  padding-bottom: 0.8em;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.author-info i {
+  color: #6c603d;
+}
+
+.social-share {
+  float: right;
+  padding-top: 6px;
+}
+
+.social-share a {
+  display: inline-block;
+  padding-left: 15px;
+}
+
+span.headline {
+  text-transform: uppercase;
+  font-weight: bold;
+  display: inline-block;
+  padding-right: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+a.tag {
+  display: inline-block;
+  padding-right: 0.6em;
+}
+
+.page-news .news-grid-read-more {
+  position: absolute;
+  bottom: 0;
+  right: 6px;
+}
+
+#block-views-feed-item-feed-block h3 {
+  display: none;
+}
+
+#block-views-news-sidebar {
+  border: none;
+  padding: 0;
+}
+
+.news-sidebar {
+  padding: 1em;
+  margin-top: 1em;
+  background: #eceae3;
+}
+
+.news-sidebar .abbr-teaser {
+  margin: 0.5em 0 2em 0;
+}
+
+.news-sidebar .abbr-teaser img {
+  max-height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.news-sidebar .abbr-teaser h4 {
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 1.75rem;
+  margin: 0;
+}
+
+.news-sidebar .abbr-teaser .date {
+    font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-size: 0.75rem;
+  margin-bottom: 1em;
+}
+
+.right-column-sidebar, .left-column-sidebar{
+  width: 50%;
+}
+.right-column-sidebar{
+  float: right;
+  margin-top: 30px;
+  padding-left: 10%;
+}
+
+.news-list-item {
+	background: #ebe8df;
+	padding: 6px;
+	margin-bottom: 1em;
+}
+.news-list-item h4 {
+	font-size: 1rem;
+	margin: 0;
+	font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+.news-list-item a {
+	color: #c00;
+}
+.news-list-image {
+	width: 33.333337%;
+	overflow: hidden;
+	float: left;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center 25%;
+}
+.news-list-image img {
+	width: 100%;
+}
+.news-list-meta {
+	float: right;
+	width: 66.666666667%;
+	padding-left: 15%;
+	font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+.news-list-social-share {
+	float: left;
+	padding-top: 10px;
+	width: 33.333337%;
+	clear: left;
+}
+.news-list-social-share a {
+	display: inline-block;
+	margin-right: 4px;
+}
+.news-list-social-share a:last-child {
+	margin-right: 0;
+}
+.related-newsletters .news-grid-content {
+	padding: 0.5em;
+}
+.related-newsletters .news-grid-content h4 {
+	font-size: 1rem;
+	color: #595855;
+}
+.related-newsletters .news-grid-read-more.no-social {
+	float: none;
+	font-size: 0.8rem;
+}
+
+.news-grid-item {
+        background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.05);
+	padding: 0 0 0.75rem 0;
+	position: relative;
+	margin-bottom: 1.75em;
+}
+
+.news-grid-content h4 {
+	font-size: 1.2rem;
+	margin-top: 0;
+}
+
+.news-grid-content h3 {
+      margin-top: 0;
+}
+
+.related-newsletters h4, .related-newsletters .news-grid-date, .news-grid-date {
+	font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+@media (max-width:768px) {
+.news-grid-item {
+        background: none repeat scroll 0% 0% rgba(0, 0, 0, 0.05);
+	padding: 0;
+	position: relative;
+	margin-bottom: 1.75em;
+}
+}
+.news-grid-item h4 {
+	margin: 0;
+	margin-bottom: 0.5rem;
+}
+
+.news-grid-content h4 {
+  font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 2rem;
+}
+
+.social-image-overlay {
+      display: none;
+}
+
+.news-grid-mobile-social {
+	float: left;
+        width: 50%;
+        padding-top: 0.5em;
+}
+.news-grid-mobile-social a {
+	display: inline-block;
+	margin-right: 0.5em;
+}
+.news-grid-read-more {
+	padding-top: 0.5em;
+	text-align: right;
+	font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+}
+
+.news-grid-read-more.no-social {
+	padding-top: 0;
+}
+.news-grid-image {
+	width: 100%;
+	margin-bottom: 0.5em;
+	position: relative;
+	height: 165px;
+	text-align: center;
+	background: gray;
+}
+.news-grid-image img {
+	width: auto;
+	display: block;
+	margin: 0 auto;
+	height: 100%;
+        max-height: 100%;
+}
+
+.social-image-overlay {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: #c00;
+}
+.social-share-icons {
+	position: absolute;
+	top: 45%;
+	width: 100%;
+	text-align: center;
+}
+
+.social-share-icons a {
+	display: inline-block;
+	margin-right: 0.5em;
+}
+
+.social-image-overlay img {
+	width: auto;
+	display: inline-block;
+}
+
+.news-grid-content {
+	padding: .5em 1em 20px 1em;
+}
+
+@media (min-width:768px) {
+.news-grid-mobile-social {
+  display: none;
+  }
+
+.news-grid-image:hover .social-image-overlay {
+	display: block;
+}
+.news-list-meta {
+	width: 40%;
+}
+.news-grid-read-more {
+	float: right;
+}
+
+#maincontent .wdn-band .news-filters .wdn-inner-wrapper {
+	padding-bottom: 0;
+}
+.filter-item {
+	padding-right: 3.25em;
+	display: inline-block;
+}
+.right-filter-item {
+	float: right;
+}
+.filter-label {
+	padding-right: 1em;
+}
+.news-list-item {
+	background: #ebe8df;
+	padding: 6px;
+	margin-bottom: 1em;
+}
+.news-list-item a {
+	color: #c00;
+}
+.news-list-image {
+	width: 15%;
+	height: 52px;
+	overflow: hidden;
+	float: left;
+	margin-right: 1em;
+}
+.news-list-image img {
+	width: 100%;
+}
+.news-list-meta {
+	float: left;
+	padding-left: 0;
+}
+.news-list-social-share {
+	float: right;
+	padding-top: 10px;
+	width: auto;
+	clear: none;
+  }
+}
+
+@media (min-width:960px) {
+.news-list-meta {
+	width: 56%;
+  }
+}
+
+/* ///////////////////////////////////////////////
+
+Social Media Band
+
+////////////////////////////////////////////// */
+
+.engl-social-icons a {
+  border-bottom: none !important;
+}
+
+.engl-social-icons p {
+  font-size: 3em;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Newsletters
+
+/////////////////////////////////////////////////////////////////////////// */
+
+.newsletter-title-block {
+  border-top: 3px double rgba(0,0,0,0.5);
+  padding: 6rem 2rem 4rem 2rem;
+}
+
+.newsletter-sectiontitle-block {
+  border-top: 3px double rgba(0,0,0,0.5);
+  border-bottom:  3px double rgba(0,0,0,0.5);
+ margin-bottom: 2rem;
+}
+
+.newsletter-section-block {
+  margin-bottom: 3em;
+}
+
+.newsletter-main-title {
+  margin: 0; 
+  font-size: 3em;
+  font-family: "Mercury Display A","Mercury Display B",Georgia,Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.newsletter-issue { 
+  margin: 1rem auto 1rem auto;
+  font-size: 5em;
+  text-transform: uppercase;
+  font-family: "Mercury Display A","Mercury Display B",Georgia,Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
+  font-weight: 300;
+  text-align: center;
+}
+
+.newsletter-tagline {
+  margin: 1em auto 2em auto;
+  text-align: center;
+}
+
+.monthly-newsletter {
+  margin: 4em 2em 0 2em;
+}
+
+.monthly-newsletter h3 {
+  font-weight: 400 !important;
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 0.5em; 
+}
+
+.view-monthly-newsletter .see-all, .view-monthly-newsletter .feeds {
+  display: none;
+}
+
+.newsletter-title {
+  margin: 1em auto;
+  font-size: 2rem;
+  font-family: "Mercury Display A","Mercury Display B",Georgia,Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-align: center;
+}
+
+.newsletter-story {
+  margin-bottom: 1.5em;
+}
+
+.newsletter-section-block img {
+    padding: 4px;
+    border: 1px solid #d5d5d2;
+    max-height: 500px;
+    max-width: 50%;
+}
+
+.newsletter-section-block .carousel-item {
+  padding: 0 0.25em;
+}
+
+.newsletter-section-block .carousel-item img {
+  padding: 0;
+  border: none;
+  max-width: 100%;
+}
+
+.newsletter-section-block .full-width {
+  max-width: 100% !important;
+  height: auto;
+}
+
+@media (max-width:768px) {
+  .newsletter-section-block img {
+    max-width: 50%;
+   }
+}
+
+.newsletter-mobile-social {
+  float: right;
+  width: 50%;
+}
+
+.newsletter-mobile-social a {
+  display: inline-block;
+  margin-right: 0.5em;
+}
+
+/*///////////////////////////////////////////////
+
+Part Content (2 Columns, headings on left)
+
+/////////////////////////////////////////////// */
+
+.part-content {
+  margin-top: 0;
+  margin-bottom: 3rem;
+  display: block;
+}
+
+p.part-content {
+  margin-top: 0;
+  margin-bottom: 3rem;
+  display: block;
+}
+
+.part-subject {
+  font-size: 1.5rem;
+  margin-top: 13px;
+  margin-bottom: 0;
+  line-height: normal;
+}
+
+.part-content {
+  margin-bottom: 1em;
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+New WDN Hero Text Box (replaces Parallax Images below)
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.engl-hero-text-box  {
+  background-color: rgba(254,253,250, 0.75);
+  border: 5px solid rgba(254,253,250, 0.75);
+  padding: 0px 20px;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Parallax Image Styles
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.parallax-container {
+  overflow: hidden;
+  position: relative;
+  height: 600px;
+  background-color: #000000;
+}
+
+.parallax-img {
+  position: absolute;
+  left: 0px;
+  top: 50%;
+  bottom: 50%;
+  width: 100%;
+}
+
+.parallax-content {
+  position: absolute;
+}
+
+.parallax-content .engl-stretch-box h1 {
+  margin-top: 1.5rem;
+}
+
+@media (max-width:1280px) {
+  .parallax-container {
+    height: 525px;
+  }
+}
+
+@media (max-width:960px) {
+  .parallax-content .engl-stretch-box h1 {
+    font-size: 2.75rem;
+  }
+  .parallax-content .engl-stretch-box p {
+    font-size: 0.9rem !important;
+  }
+  .parallax-container {
+    height: 400px;
+  }
+}
+
+@media (max-width:768px) {
+  .parallax-container {
+    height: 325px;
+  }
+  .parallax-content .engl-stretch-box {
+    padding: 0.5em 1.5em;
+  }
+}
+
+@media (max-width:480px) {
+  .parallax-container {
+    height: 250px;
+  }
+}
+/*///////////////////////////////////////////////////////////////////////////
+
+Promo Image Styles
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.page-node .wdn-promo-band {
+  max-height: 450px;
+  overflow: hidden;
+}
+
+	@media (max-width:767px){
+		.page-node .wdn-promo-band{
+ 	 	 	max-height: 300px;
+ 	 	}
+	}
+
+	@media (max-width:480px){
+		.page-node .wdn-promo-band{
+	    	max-height:250px;
+	  	}
+	}
+	
+.page-node .wdn-promo-container {
+  background: -moz-linear-gradient(top, rgba(0,0,0,0) 0px, rgba(0,0,0,0.4) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0px,rgba(0, 0, 0, 0)), color-stop(100%,rgba(0,0,0,0.4)));
+  background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0px,rgba(0,0,0,0.4) 100%);
+  background: -o-linear-gradient(top, rgba(0,0,0,0) 0px,rgba(0,0,0,0.4) 100%);
+  background: -ms-linear-gradient(top, rgba(0,0,0,0) 0px,rgba(0,0,0,0.4) 100%);
+  background: linear-gradient(to bottom, rgba(0,0,0,0) 0px,rgba(0,0,0,0.4) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#66000000',GradientType=0 );
+}
+
+.wdn-promo-band img {
+  position: relative;
+  margin-top: -5%;
+}
+
+.wdn-promo-text{
+  line-height: 1em;
+}
+
+.engl-stretch {
+  color: #fff;
+  padding-top: 2em;
+}
+
+.engl-stretch h2, 
+.engl-stretch h3, 
+.engl-stretch h4, 
+.engl-stretch h5,
+.engl-stretch h6 {
+  color: #fff;
+}
+
+.engl-stretch-overlay {
+  border: 5px solid rgba(255, 255, 255, 0.75);
+  padding: 5px;
+}
+
+.engl-stretch-box  {
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 1em 2em 1.5em 2em;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Shapes
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.left-border {
+  padding-left: 1rem;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+.left-border p:first-child {
+  margin-top: 0;
+}
+
+.red-left-border {
+  border-left: 8px solid #d00000;
+}
+
+.yellow-left-border {
+  border-left: 8px solid #ffd000;
+}
+
+.green-left-border {
+  border-left: 8px solid  #008a2c;
+}
+
+.orange-left-border {
+  border-left: 8px solid  #d4440b;
+}
+
+.blue-left-border {
+  border-left: 8px solid #137cbd;
+}
+
+
+
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Tables
+
+///////////////////////////////////////////////////////////////////////////*/
+
+th.brand, td.brand {
+  background: none repeat scroll 0% 0% rgb(208, 0, 0);
+  border-top: 3px solid #ccc;
+  border-left: 1px solid rgba(0, 0, 0, 0.3);
+  border-right: 1px solid rgba(0, 0, 0, 0.3);
+  border-bottom: 5px solid rgba(0, 0, 0, 0.3);
+  color: #fff;
+  font-weight: 500;
+  text-transform: uppercase;
+ font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-style: normal;
+  letter-spacing: 0.02em;
+  line-height: 2rem;
+  margin-top: 1rem;
+  min-width: 11rem;
+}
+
+
+/* ///////////////////////////////////////////////////////////////
+
+UCARE Research Project Page
+
+////////////////////////////////////////////////////////////// */
+
+.research-project {
+  margin-top: 2em;
+}
+
+.research-project .ucare, .research-project .student {
+      margin-bottom: 2em;
+}
+
+.research-project h3 {
+      margin-bottom: 0;
+      font-weight: 200;
+      font-size: 2rem;
+}
+
+.research-project p {
+      margin: 0.25em 0;
+      font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.8rem;
+}
+
+.research-project p.project-name {
+      font-style: italic;
+      font-family: "Mercury Display A","Mercury Display B",Georgia,Baskerville,"Baskerville Old Face","Hoefler Text",Garamond,"Times New Roman",serif;
+      font-size: 1.25rem;
+      line-height: 1.25;
+}
+
+/* ///////////////////////////////////////////////////////////////
+
+Undergraduate / Advising Pages
+
+////////////////////////////////////////////////////////////// */
+
+.adviser-bio img {
+  padding: 4px;
+  border: 1px solid #d5d5d2;
+  float: left;
+  width: 40%;
+  max-width: 40%;
+  margin: 0 1em 0 0;
+}
+
+  .adviser-bio {
+  margin-bottom: 5em; 
+ }
+
+@media (max-width: 481px) {
+  .adviser-bio img {
+  display: block;
+  width: 75%;
+  max-width: 75%;
+  margin: 0 auto;
+  }
+}
+
+.adviser-bio h2 {
+  font-weight: 400;
+  margin-top: 0;
+}
+
+
+
+/* ///////////////////////////////////////////////////////////////
+
+Undergraduate Newsletter / Weekly Updates
+
+////////////////////////////////////////////////////////////// */
+
+.ugradnews-teaser {
+ padding: 0px 10px;
+}
+
+.ugradnews span {
+  color: #5b5b5a;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.ugradnews u {
+  text-decoration: none !important;
+}
+
+.ugradnews-wrapper {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 1em;
+}
+
+.ugradnews-title {
+  margin: 1.5em 0 0 0; 
+  font-size: 3em;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+}
+
+.ugradnews-title-date { 
+  margin: 1rem auto 1rem auto;
+  font-size: 2em;
+  display: block;
+  font-weight: 800;
+  text-align: center;
+  color: #ffffff;
+}
+
+.ugradnews h3 {
+  font-weight: 400;
+  font-size: 2rem;
+}
+
+.ugradnews-intro {
+  margin-bottom: 2em;
+}
+
+.ugradnews-intro-text {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 0.67em;
+}
+
+.ugradnews-intro-text h2 {
+  font-weight: 400;
+  padding-bottom: 0.25em;
+  border-bottom: 1px dotted #d5d5d2;
+  margin-top: 0.75em;
+}
+
+.ugradnews-table-of-contents h2 {
+  font-weight: 400;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #d5d5d2;
+}
+
+.ugradnews-table-of-contents a, .table-of-contents a {
+  display: block;
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-weight: 600;
+  margin-left: 0.25em;
+}
+
+.table-of-contents a {
+  border-bottom: 0px solid rgba(0,0,0,0);
+}
+
+.ugradnews-section-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+  line-height: 1.25;
+}
+
+.ugradnews-section-list li {
+  margin-bottom: 0.25rem;
+}
+
+.ugradnews-section-list li>a {
+  border-bottom: 0px;
+  color: rgba(0,0,0,0.67);
+}
+
+.ugradnews-message .pic-wrap {
+margin: -2rem 1rem 2em 2%;
+}
+
+.ugradnews-student-stories {
+  margin-bottom: 3em !important;
+}
+
+.ugradnews-student-story img {
+  padding: 4px;
+  border: 1px solid #d5d5d2;
+}
+
+.ugradnews-student-story h3 {
+  margin-top: 0;
+}
+
+.ugradnews-section-main {
+  border-top: 1px dotted rgba(0,0,0,0.8);
+  border-bottom: 1px dotted rgba(0,0,0,0.8);
+  padding-left: 5%;
+  padding-right: 5%;
+  margin-top: 6em;
+}
+
+.ugradnews-section-main h2 {
+  text-transform: uppercase;
+  margin-top: 1rem;
+}
+
+.ugradnews-wrapper img {
+  padding: 4px;
+  border: 1px solid #d5d5d2;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.ugradnews-section-call {
+  padding-bottom:2em;
+  margin-bottom: 3em;
+  text-align: center;
+}
+
+.ugradnews-interview {
+  padding-bottom: 6em !important;
+}
+
+.ugradnews-subhead {
+  margin-bottom: 2em;
+  text-align: center;
+}
+  
+.interview-question {
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
+.interview-answer {
+  margin-bottom: 1em;
+}
+
+.pic-inline-left {
+  float:left;
+  margin-right: 1em;
+}
+
+.light-promo-content {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.light-promo-text {
+  color: #d00000;
+   font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+   font-size: 4rem;
+   font-weight: 100;
+   display: block;
+   text-transform: uppercase;
+  line-height: 1.15;
+}
+
+.light-subhead {
+  font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+  font-weight: 100;
+  font-size: 2rem;
+   display: block;
+   text-transform: uppercase;
+}
+
+.engl-button-yellow {
+  background-color: #ffd000;
+  color: #333 !important;
+}
+
+.engl-button-yellow:hover {
+  background-color: #e6ac00;
+}
+
+a.engl-button-yellow, 
+a.engl-button-yellow a:hover,
+a.engl-button-yellow a:visited {
+    color: #333 !important;
+}
+
+.engl-button-orange {
+  background-color: #D4440B;
+}
+
+.engl-button-orange:hover {
+  background-color: #aa3609;
+}
+
+/*///////////////////////////////////////////////
+
+Video Feed Items
+
+///////////////////////////////////////////////*/
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video-grid-image img {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        height: auto;
+}
+
+.video-title {
+  width: 100%;
+  border-bottom: 1px solid #d5d5d2;
+}
+
+.view-all-button {
+  float: right;
+}
+
+.node-type-video-feed-item .hote-list {
+  margin-top: 0em;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Views - Exposed Forms
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.views-exposed-form {
+  background-color: #eceae3;
+  margin: 0 0 1em 0;
+  padding: 1em 0;
+}
+
+.views-exposed-widget .description {
+  display: none;
+}
+
+.views-exposed-widgets {
+  max-width: 966px;
+  margin: auto;
+  width:75%;
+  font-size: 0.8rem;
+}
+
+@media (max-width:768px) {
+.views-exposed-widgets {
+  max-width:768px;
+  }
+}
+
+.views-exposed-widget, .views-exposed-widget label {
+  display: inline-block;
+  text-transform: uppercase;
+}
+
+.views-widget {
+  display: inline;
+}
+
+.views-exposed-form label {
+  display: inline;
+  text-transform: uppercase;
+  color: rgba(0, 0, 0, 0.75);
+  font-size: 0.8rem;
+}
+
+.views-widget select {
+  padding: 0.25em 0.1em;
+  margin-right: 1em;
+  font-size: 0.8rem;
+}
+
+@media (max-width:768px) {
+.views-exposed-widget {
+  margin: 0.5em 0.25em;
+  }
+}
+
+.form-view-select {
+width: 100%;
+padding: 0.75em;
+font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+font-weight: 400;
+font-style: normal;
+outline: 0px none;
+border: 1px solid #D5D5D2;
+border-radius: 2px;
+background-clip: padding-box;
+background-color: #FFF;
+}
+
+.form-view-label {
+    position: relative;
+    font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.923077rem;
+    color: #5b5b5a;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Visual Islands
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.visual-island {
+  width: 100%;
+  margin: 0.5em;
+  overflow: hidden;
+}
+
+.rounded {
+    padding: 10px 40px 40px 40px; 
+    border-radius: 40px !important;
+}
+
+.visual-island-triad .rounded {
+    border: 1px solid #E7F0F4; 
+}
+
+.visual-island-scarlet .rounded {
+    border: 1px solid #d00000 !important; 
+}
+
+.visual-island-neutral .rounded {
+    border: 1px solid #eceae3; 
+}
+
+
+.visual-island-grey .rounded {
+    border: 1px solid #d8d8d8; 
+}
+
+.visual-island h3 {
+  margin-top: 1rem;
+}
+
+.visual-island-neutral {
+  background: #eceae3;
+}
+
+.visual-island-triad {
+  background: rgb(231, 240, 244);
+}
+
+.visual-island-grey {
+  background: #d8d8d8;
+}
+
+.visual-island-cream {
+  background-color: #f4f3ef;
+  padding: 0.5em;
+}
+
+.visual-island-scarlet {
+  background: #d00000;
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  color: #fefdfa;
+}
+
+.visual-island-scarlet a,
+.visual-island-scarlet h2,
+.visual-island-scarlet h3,
+.visual-island-scarlet h4,
+.visual-island-scarlet h5,
+.visual-island-scarlet h6,
+.visual-island-scarlet .engl-subhead {
+  color: #fefdfa;
+}
+
+.bar-island {
+  background: none repeat scroll 0% 0% rgba(239,236,225,0.5);
+  margin-bottom: 2em;
+}
+
+.bar-island .titlebar {
+     background-color: rgb(239,236,225);
+}
+
+.bar-island-triad {
+  background-color: rgba(231,240,244,0.5);
+}
+
+.bar-island-triad .titlebar {
+  background-color: rgb(231,240,244);
+}
+
+.bar-island-complement {
+  background-color: rgba(229,241,229,0.5);
+}
+
+.bar-island-complement .titlebar {
+  background-color: rgb(229,241,229);
+}
+
+.titlebar {
+     width: 100%;
+     border-radius: 2px;
+     margin-top: 0;
+     padding: 1rem;
+     font-weight: bold;
+     font-family: "Tungsten A","Tungsten B",Impact,Haettenschweiler,"Arial Narrow Bold","Franklin Gothic Bold",Charcoal,"Helvetica Inserat","Bitstream Vera Sans Bold","Arial Black",sans-serif;
+     font-size: 2rem;
+}
+
+.bar-island-text {
+  padding: 0em 1em 1.5em 1em;
+}
+
+.bar-island-text p {
+  margin-bottom: 0;
+}
+
+.bar-island-text .role {
+    font-family: "Gotham SSm A","Gotham SSm B",Verdana,"Verdana Ref",Geneva,Tahoma,"Lucida Grande","Lucida Sans Unicode","Lucida Sans","DejaVu Sans","Bitstream Vera Sans","Liberation Sans",sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 2;
+    letter-spacing: -0.025rem;
+}   
+
+.bar-island-text ul {
+  list-style-type: none;
+  padding-left: 0.25rem;
+  margin-bottom: 0;
+}
+
+.bar-island-text li {
+  margin-bottom: 0.33rem;
+}
+
+.bar-island-text li:last-child {
+  margin-bottom: 0;
+}
+
+.barisland-text a {
+  border-bottom: 0 !important;
+}
+
+
+
+
+/* 
+Hiding Sections of Bulletin Items
+*/
+
+.course .notes {
+  display: none;
+}
+
+.course .prereqs {
+  display: none;
+}
+
+.course .subsequent {
+  display: none;
+}
+
+.course .details {
+  display: none;
+}
+
+@media (min-width:481px) {
+dt.course {
+  margin-bottom: -5em;
+  }
+}
+
+@media (max-width:480px) {
+dt.course {
+  margin-bottom: -2em;
+  }
+}
+
+dd.course .description {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.engl-carousel .flexslider {
+  background: rgba(255,255,255,0);
+  border-color: rgba(255,255,255,0);
+}
+
+.carousel-item dd {
+overflow: initial !important;
+}
+
+.carousel-item .course .coursetitle {
+  max-width: 300px;
+}
+
+.carousel-item .course .description div {
+  display: inherit;
+  max-width: 300px;
+}
+
+textarea.code {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 500;
+  margin: 1em 0;
+  padding: 0.5rem;
+  resize: none;
+}
+
+/*///////////////////////////////////////////////////////////////////////////
+
+Alumni Books Story
+
+///////////////////////////////////////////////////////////////////////////*/
+
+.page-node-3046 h3 {
+  font-weight: 300;
+}
+
+.page-node-3046 h3 img {
+  width: 200px;
+  margin-right: 2rem;
+}
+
+.page-node-3046 p + p {
+  margin-bottom: 275px;
+  font-size: 1.333rem;
+}
+
